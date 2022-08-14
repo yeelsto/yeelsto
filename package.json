@@ -1,0 +1,19 @@
+{
+    "name": "yeelsto",
+    "author": "@yeelsto/dev-team",
+    "version": "0.0.1",
+    "description": "Open-source file storage/transfer software",
+    "homepage": "https://github.com/yeelsto/yeelsto",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/yeelsto/yeelsto.git"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/yeelsto/yeelsto/issues"
+    },
+    "devDependencies": {
+        "@commitlint/cli": "^17.0.3",
+        "@commitlint/config-conventional": "^17.0.3"
+    }
+}
